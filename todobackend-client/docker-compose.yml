@@ -1,4 +1,4 @@
 app:
-  image: jmenga/todobackend-client
+  image: ommunus/todobackend-client
   ports:
     - 3000:3000
