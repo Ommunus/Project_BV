@@ -22,35 +22,6 @@ This folder contains all of the source code and repositories for this course inc
 - Git
 - AWS CLI
 
-## Checking out the Source Code
-
-Each repository includes full git history and is tagged with the following convention:
-
-- module-n-before - source code at the beginning of Module n
-- module-n-after - source code at the end of Module n
-
-### Examples
-
-This checks out the todobackend repository as at the beginning of Module 3:
-
-```
-$ cd todobackend
-$ git checkout module-3-before
-```
-
-This checks out the todobackend-base repository as at the end of Module 5:
-
-```
-$ cd todobackend-base
-$ git checkout module-5-after
-```
-
-This checks out the most recent commit on the master branch:
-
-```
-$ cd todobackend-base
-$ git checkout master
-```
 =======
 # Project_BV
 A BV Project

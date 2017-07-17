@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "Justin Menga",
+  "author": "Ommunus",
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.1.5",
@@ -16,5 +16,8 @@
     "mocha-jenkins-reporter": "^0.1.9",
     "superagent": "^1.7.2",
     "superagent-promise": "^1.1.0"
+  },
+  "directories": {
+    "test": "test"
   }
 }
